@@ -1,0 +1,6 @@
+conda create --name PPython
+conda activate PPython
+conda install jupyter notebook
+conda install numpy
+conda install pandas
+conda install matplotlib
